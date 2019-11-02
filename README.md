@@ -1,4 +1,6 @@
-# EmitterComponentTest
+# Emitter Component Test
+
+This project was created to test the emitter component repository/libraray with github [link](https://github.com/component/emitter).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
