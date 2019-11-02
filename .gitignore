@@ -48,3 +48,4 @@ Thumbs.db
 # Custom
 package-lock.json
 /node_modules_backup
+yarn.lock
